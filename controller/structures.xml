@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoraushan_main" name="Fine" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoraushan_main" name="Fine" url="/taoraushan/Taoraushan/index" />
+			<section id="taoraushan_other" name="Template" url="/taoraushan/Taoraushan/templateExample" />
+		</sections>
+	</structure>
+</structures>
